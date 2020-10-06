@@ -1,5 +1,8 @@
 # Texterkennung
-Für diese Aufgabe sollen Sie die Daten auf einem Bild analysieren. Gehen Sie wie folgt vor.
+Für diese Aufgabe sollen Sie die Daten auf einem Bild eines Rechners analysieren:
+https://github.com/mheckner/exit-hack/blob/master/03_OCR/solution/rechner.png
+
+Gehen Sie wie folgt vor.
 
 ## Hello World in Python ausführen
 Im Ordner `03_SOS/examples` finden Sie die Datei `hello_world.py`

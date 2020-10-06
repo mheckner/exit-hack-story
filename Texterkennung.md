@@ -1,5 +1,6 @@
 # Texterkennung
-Für diese Aufgabe sollen Sie die Daten auf einem Bild eines Rechners analysieren:
+Für diese Aufgabe sollen Sie die Daten auf einem Bild eines Rechners analysieren und die Informationen auf dem Bild in Text umwandeln:
+
 https://github.com/mheckner/exit-hack/blob/master/03_OCR/solution/rechner.png
 
 Gehen Sie wie folgt vor.

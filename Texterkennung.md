@@ -3,6 +3,8 @@ Für diese Aufgabe sollen Sie die Daten auf einem Bild eines Rechners analysiere
 
 https://github.com/mheckner/exit-hack/blob/master/03_OCR/solution/rechner.png
 
+Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recognition) im Ordner `03_OCR/solution/` entwickeln.
+
 Gehen Sie wie folgt vor.
 
 ## Hello World in Python ausführen

@@ -32,6 +32,7 @@ if __name__ == "__main__":
     main()
 ```
 `text_in_image` enthält den Text, den die Funktion `image_to_string` in dem als Parameter übergebenen Bild gefunden hat.
+
 **Erkennen Sie den Text mit `pytesseract`und geben Sie jetzt den Text auf der Kommandozeile aus.**
 
 ## Text in einer Datei abspeichern
@@ -46,6 +47,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
 **Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`.**
 
 

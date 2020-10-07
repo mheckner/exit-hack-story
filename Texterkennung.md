@@ -7,10 +7,6 @@ Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recogn
 
 Gehen Sie wie folgt vor.
 
-## Hello World in Python ausführen
-Im Ordner `03_SOS/examples` finden Sie die Datei `hello_world.py`
-Führen Sie zuerst dieses Programm auf der Kommandozeile aus, bevor Sie weiter fortfahren.
-
 ## Bilderkennung
 Für diese Aufgabe sollen Sie die Zahlen auf einem Bild erkennen. Dazu müssen Sie das Bild erst öffnen. Dies können Sie mit der Bibliothek `Image` erledigen. Das folgende Codebeispiel zeigt das Öffnen eines Bilds:
 
@@ -53,7 +49,7 @@ Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`
 
 
 ## Datei übermitteln und überprüfen
-Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an das Rechenzentrum übermitteln, um diese dort prüfen zu lassen. Der Administrator hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution`.
+Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an das Lager übermitteln, um diese dort prüfen zu lassen. Frau Groß hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution` finden.
 
 Führen Sie dieses Skript wie folgt aus:
 ```shell

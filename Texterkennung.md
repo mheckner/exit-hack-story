@@ -1,9 +1,11 @@
 # Texterkennung
-Für diese Aufgabe sollen Sie die Daten auf einem Bild eines Rechners analysieren und die Informationen auf dem Bild in Text umwandeln:
-
+Es existiert ein Bild des Rechners mit den benötigten Kabelnummern.
+Dieses Bild finden Sie unter dem folgenden Link:
 https://github.com/mheckner/exit-hack/blob/master/03_OCR/solution/rechner.png
 
-Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recognition) im Ordner `03_OCR/solution/` entwickeln.
+Für diese Aufgabe sollen Sie die Kabelnummern auf dem Bild erkennen und als Textdatei an das Lager übermitteln.
+
+Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recognition) im Ordner `03_Texterkennung/solution/` entwickeln.
 
 Gehen Sie wie folgt vor.
 
@@ -20,7 +22,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Um die Zahlen auf dem Bild zu erkennen, können Sie die Bibliothek `pytesseract` verwenden. Das folgende Beispiel zeigt das Importieren dieser Bibliothek und die Verwendung der Texterkennungsfunktion.
+Um die Kabelnummern auf dem Bild zu erkennen, können Sie die Bibliothek `pytesseract` verwenden. Das folgende Beispiel zeigt das Importieren dieser Bibliothek und die Verwendung der Texterkennungsfunktion.
 
 ```python
 import pytesseract
@@ -49,7 +51,6 @@ if __name__ == "__main__":
 ```
 
 **Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`.**
-
 
 ## Datei übermitteln und überprüfen
 Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an das Lager übermitteln, um diese dort prüfen zu lassen. Frau Groß hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution` finden.

@@ -1,7 +1,7 @@
 # Texterkennung
 Es existiert ein Bild des Rechners mit den benötigten Kabelnummern.
 Dieses Bild finden Sie unter dem folgenden Link:
-https://github.com/mheckner/exit-hack/blob/master/03_OCR/solution/rechner.png
+https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/rechner.png
 
 Für diese Aufgabe sollen Sie die Kabelnummern auf dem Bild erkennen und als Textdatei an das Lager übermitteln.
 

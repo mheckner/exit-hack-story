@@ -1,6 +1,6 @@
 # Texterkennung
 Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer per Post. Es existiert ein Bild des Schreibens, in dem die ID von Herrn Lambert enthalten ist. Das Bild finden Sie unter dem folgenden Link:
-https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/rechner.png
+https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/notiz.png
 
 Für diese Aufgabe sollen Sie die Zeichenfolge auf dem Bild erkennen und als Textdatei an den Hausmeister übermitteln.
 

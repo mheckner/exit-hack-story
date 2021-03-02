@@ -1,9 +1,8 @@
 # Texterkennung
-Es existiert ein Bild des Rechners mit den benötigten Kabelnummern.
-Dieses Bild finden Sie unter dem folgenden Link:
+Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer per Post. Es existiert ein Bild des Schreibens, in dem die ID von Herrn Lambert enthalten ist. Das Bild finden Sie unter dem folgenden Link:
 https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/rechner.png
 
-Für diese Aufgabe sollen Sie die Kabelnummern auf dem Bild erkennen und als Textdatei an das Lager übermitteln.
+Für diese Aufgabe sollen Sie die Zeichenfolge auf dem Bild erkennen und als Textdatei an den Hausmeister übermitteln.
 
 Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recognition) im Ordner `03_Texterkennung/solution/` entwickeln.
 
@@ -53,7 +52,7 @@ if __name__ == "__main__":
 **Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`.**
 
 ## Datei übermitteln und überprüfen
-Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an das Lager übermitteln, um diese dort prüfen zu lassen. Frau Groß hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution` finden.
+Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an Herrn Mayer übermitteln, um diese dort prüfen zu lassen. Die Hausverwaltung hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution` finden.
 
 **Führen Sie dieses Skript wie folgt aus:**
 ```shell

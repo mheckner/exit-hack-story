@@ -1,5 +1,7 @@
 # Texterkennung
-Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer per Post. Es existiert ein Bild des Schreibens, in dem die ID von Herrn Lambert enthalten ist. Das Bild finden Sie unter dem folgenden Link:
+Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer. Leider findet Herr Lambert diese nur in seinem Notizblock.
+
+Es existiert ein Bild dieser Notiz. Dieses finden Sie unter dem folgenden Link:
 https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/notiz.png
 
 Für diese Aufgabe sollen Sie die Zeichenfolge auf dem Bild erkennen und als Textdatei an den Hausmeister übermitteln.
@@ -21,7 +23,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Um die Kabelnummern auf dem Bild zu erkennen, können Sie die Bibliothek `pytesseract` verwenden. Das folgende Beispiel zeigt das Importieren dieser Bibliothek und die Verwendung der Texterkennungsfunktion.
+Um die Zahlenfolgen auf dem Bild zu erkennen, können Sie die Bibliothek `pytesseract` verwenden. Das folgende Beispiel zeigt das Importieren dieser Bibliothek und die Verwendung der Texterkennungsfunktion.
 
 ```python
 import pytesseract
@@ -37,7 +39,7 @@ if __name__ == "__main__":
 **Erkennen Sie den Text mit `pytesseract`und geben Sie jetzt den Text auf der Kommandozeile aus.**
 
 ## Text in einer Datei abspeichern
-Sie wollen den erkannten Text jetzt in einer Datei abspeichern, damit Sie diesen an das Lager senden können. Das folgende Beispiel zeigt den Code, um den Text "hello" in eine Datei zu schreiben.
+Sie wollen den erkannten Text jetzt in einer Datei abspeichern, damit Sie diesen versenden können. Das folgende Beispiel zeigt den Code, um den Text "hello" in eine Datei zu schreiben.
 
 ```python
 def main():
@@ -52,7 +54,7 @@ if __name__ == "__main__":
 **Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`.**
 
 ## Datei übermitteln und überprüfen
-Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an Herrn Mayer übermitteln, um diese dort prüfen zu lassen. Die Hausverwaltung hat Ihnen dafür bereits ein Skript geschrieben, das Sie im Ordner `03_SOS/solution` finden.
+Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an Herrn Mayer übermitteln, um diese dort prüfen zu lassen. Die Hausverwaltung hat Ihnen dafür bereits ein Skript (`submit.py`) geschrieben, das Sie im Ordner `03_Texterkennung/solution` finden.
 
 **Führen Sie dieses Skript wie folgt aus:**
 ```shell

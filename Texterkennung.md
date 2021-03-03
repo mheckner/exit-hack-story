@@ -1,10 +1,14 @@
 # Texterkennung
-Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer. Leider findet Herr Lambert diese nur in seinem Notizblock.
+Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine persönliche Identifikationsnummer. Der Hausmeister benötigt diese Nummer, um die Türe zu öffnen.
+
+Herr Lambert schreibt sich alle seine Passwörter und Identifikationsnummern in seinen Notizblock. Leider weiß er nicht mehr, welche dieser Nummern die Identifikationsnummer ist.
 
 Es existiert ein Bild dieser Notiz. Dieses finden Sie unter dem folgenden Link:
 https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/notiz.png
 
-Für diese Aufgabe sollen Sie die Zeichenfolge auf dem Bild erkennen und als Textdatei an den Hausmeister übermitteln.
+Da Herr Lambert sich so viele Nummern aufgeschrieben hat, kann er diese nicht einzeln abtippen. Die Zeit drängt!
+
+Für diese Aufgabe sollen Sie alle Zeichenfolgen auf dem Bild der Notiz erkennen und als Textdatei an den Hausmeister übermitteln. Dieser kann dann feststellen, ob die Identifikationsnummer unter diesen Zahlen ist.
 
 Ihre Lösung sollen Sie in dem Programm `ocr.py` (OCR = Optical Character Recognition) im Ordner `03_Texterkennung/solution/` entwickeln.
 

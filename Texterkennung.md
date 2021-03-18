@@ -3,8 +3,9 @@ Zur Wohnungseröffnung erhält jeder Mieter getrennt von seinem Mietvertrag eine
 
 Herr Lambert schreibt sich alle seine Passwörter und Identifikationsnummern in seinen Notizblock. Leider weiß er nicht mehr, welche dieser Nummern die Identifikationsnummer ist.
 
-Es existiert ein Bild dieser Notiz. Dieses finden Sie unter dem folgenden Link:
-https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/solution/notiz.png
+Es existiert ein Bild dieser Notiz. Diese finden Sie in replit wie folgt:
+`03_Texterkennung/solution/notiz.png`
+**Sehen Sie sich zuerst diese Notiz in replit an, bevor Sie weiterlesen.**
 
 Da Herr Lambert sich so viele Nummern aufgeschrieben hat, kann er diese nicht einzeln abtippen. Die Zeit drängt!
 

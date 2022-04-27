@@ -57,6 +57,7 @@ if __name__ == "__main__":
 ```
 
 **Speichern Sie jetzt den aus dem Bild erkannten Text in der Datei `numbers.csv`.**
+Die Erkennung kann bis zu ein paar Minuten dauern! Wenn Sie erfolgreich waren, hat Ihr Programm die Datei `numbers.csv` erstellt. Sehen Sie sich diese Datei in replit an. Dort sollten die Zahlen auf der Notiz erkannt worden sein. Vergleichen Sie diese Zahlen oberflächlich mit der Notiz, bevor Sie weitermachen.
 
 ## Datei übermitteln und überprüfen
 Sie haben es fast geschafft. Im letzten Schritt müssen Sie jetzt die Datei an Herrn Mayer übermitteln, um diese dort prüfen zu lassen. Die Hausverwaltung hat Ihnen dafür bereits ein Skript (`submit.py`) geschrieben, das Sie im Ordner `03_Texterkennung/solution` finden.
